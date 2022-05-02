@@ -1,3 +1,6 @@
+server:
+  port:
+    0
 eureka:
   instance:
     # enable to register multiple app instances with a random server port
