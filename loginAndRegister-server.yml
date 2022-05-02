@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: loginAndRegister-server
 eureka:
   instance:
     # enable to register multiple app instances with a random server port
